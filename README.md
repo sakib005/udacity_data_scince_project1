@@ -10,7 +10,7 @@ Question 3) In the US, what are the top three salaries for the majority of the r
 
 This notebook provides the detail python code to extract the data from the survey results captured from this link: https://insights.stackoverflow.com/survey
 
-Prerequisites to run the script:
+## Prerequisites to run the script:
 ================================
 Anaconda python 3 with pandas, matplotlib library
 
